@@ -1,0 +1,8 @@
+echo "# api_ripio" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/mfalini/api_ripio.git
+git push -u origin master
+https://api.exchange.ripio.com/api/v1/rate/all/                
